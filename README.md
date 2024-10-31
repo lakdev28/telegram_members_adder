@@ -44,7 +44,7 @@ Here are other programs that I developed for various Social media apps. DM me fo
 - Telegram Conversation Maker
 - Telegram Message Forwarder Application
 
-# Disclaimer:
+## Disclaimer:
 Telegram Members Adder is for educational and entertainment purposes only.
 
 Usage Guidelines
