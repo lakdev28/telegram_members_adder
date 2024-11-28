@@ -1,4 +1,4 @@
-<img src='/screenshot.png'>
+<img src='/TelegramMembersAdder.png'>
 
 # Telegram Members Adder
 
