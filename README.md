@@ -14,7 +14,7 @@ Contact me to buy this program or for demos. This program is $25, and If you nee
 - Email: [lakdev28@proton.me](mailto:lakdev28@proton.me)
 - Discord: lakdev28
 - Twitter: [lakdev28](https://twitter.com/lakdev28)
-- Reddit: [lakdev28](https://www.reddit.com/user/lakdev28)
+- Reddit: [lakdev_28](https://www.reddit.com/user/lakdev_28)
 - Instagram: [lakdev28](https://www.instagram.com/lakdev28)
 - Snapchat: [lakdev28](https://www.snapchat.com/add/lakdev28)
 
