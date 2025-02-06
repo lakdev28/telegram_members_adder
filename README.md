@@ -52,4 +52,4 @@ Usage Guidelines
 - Ethical Use: Use this tool responsibly. Do not mislead or deceive others.
 - Compliance: Follow Telegram’s terms of service and community guidelines while using this tool.
 
-By using this tool, you agree to these terms.
+By using this tool, you agree to these terms
